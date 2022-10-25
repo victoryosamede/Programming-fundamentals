@@ -1,0 +1,15 @@
+C:\Users\hp\OneDrive\Desktop\Programming-fundamentals\ProgrammingFundamentalsPractice\ProgrammingFundamentalsPractice\bin\Debug\net6.0\ProgrammingFundamentalsPractice.exe
+C:\Users\hp\OneDrive\Desktop\Programming-fundamentals\ProgrammingFundamentalsPractice\ProgrammingFundamentalsPractice\bin\Debug\net6.0\ProgrammingFundamentalsPractice.deps.json
+C:\Users\hp\OneDrive\Desktop\Programming-fundamentals\ProgrammingFundamentalsPractice\ProgrammingFundamentalsPractice\bin\Debug\net6.0\ProgrammingFundamentalsPractice.runtimeconfig.json
+C:\Users\hp\OneDrive\Desktop\Programming-fundamentals\ProgrammingFundamentalsPractice\ProgrammingFundamentalsPractice\bin\Debug\net6.0\ProgrammingFundamentalsPractice.dll
+C:\Users\hp\OneDrive\Desktop\Programming-fundamentals\ProgrammingFundamentalsPractice\ProgrammingFundamentalsPractice\bin\Debug\net6.0\ProgrammingFundamentalsPractice.pdb
+C:\Users\hp\OneDrive\Desktop\Programming-fundamentals\ProgrammingFundamentalsPractice\ProgrammingFundamentalsPractice\obj\Debug\net6.0\ProgrammingFundamentalsPractice.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Desktop\Programming-fundamentals\ProgrammingFundamentalsPractice\ProgrammingFundamentalsPractice\obj\Debug\net6.0\ProgrammingFundamentalsPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Desktop\Programming-fundamentals\ProgrammingFundamentalsPractice\ProgrammingFundamentalsPractice\obj\Debug\net6.0\ProgrammingFundamentalsPractice.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Desktop\Programming-fundamentals\ProgrammingFundamentalsPractice\ProgrammingFundamentalsPractice\obj\Debug\net6.0\ProgrammingFundamentalsPractice.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Desktop\Programming-fundamentals\ProgrammingFundamentalsPractice\ProgrammingFundamentalsPractice\obj\Debug\net6.0\ProgrammingFundamentalsPractice.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Desktop\Programming-fundamentals\ProgrammingFundamentalsPractice\ProgrammingFundamentalsPractice\obj\Debug\net6.0\ProgrammingFundamentalsPractice.dll
+C:\Users\hp\OneDrive\Desktop\Programming-fundamentals\ProgrammingFundamentalsPractice\ProgrammingFundamentalsPractice\obj\Debug\net6.0\refint\ProgrammingFundamentalsPractice.dll
+C:\Users\hp\OneDrive\Desktop\Programming-fundamentals\ProgrammingFundamentalsPractice\ProgrammingFundamentalsPractice\obj\Debug\net6.0\ProgrammingFundamentalsPractice.pdb
+C:\Users\hp\OneDrive\Desktop\Programming-fundamentals\ProgrammingFundamentalsPractice\ProgrammingFundamentalsPractice\obj\Debug\net6.0\ProgrammingFundamentalsPractice.genruntimeconfig.cache
+C:\Users\hp\OneDrive\Desktop\Programming-fundamentals\ProgrammingFundamentalsPractice\ProgrammingFundamentalsPractice\obj\Debug\net6.0\ref\ProgrammingFundamentalsPractice.dll
