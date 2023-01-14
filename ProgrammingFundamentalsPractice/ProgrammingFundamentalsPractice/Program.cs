@@ -4,6 +4,7 @@ using ProgrammingFundamentalsPractice.Chapter_3;
 using ProgrammingFundamentalsPractice.Chapter_4;
 using ProgrammingFundamentalsPractice.Chapter_5;
 using ProgrammingFundamentalsPractice.Chapter_6;
+using ProgrammingFundamentalsPractice.Chapter_7;
 
 //Calling each method in the chapter one class
 //ChapterOneExercises.Start();
@@ -91,5 +92,28 @@ using ProgrammingFundamentalsPractice.Chapter_6;
 //ChapterSixExercises.Exercise14();
 //ChapterSixExercises.Exercise15();
 //ChapterSixExercises.Exercise16();
-ChapterSixExercises.Exercise17();
+//ChapterSixExercises.Exercise17();
 //ChapterSixExercises.Exercise18();
+
+//Methods in chapter seven
+//ChapterSevenExercises.Exercise1();
+//ChapterSevenExercises.Exercise2();
+ChapterSevenExercises.Exercise3();
+//ChapterSevenExercises.Exercise4();
+//ChapterSevenExercises.Exercise5();
+//ChapterSevenExercises.Exercise6();
+//ChapterSevenExercises.Exercise7();
+//ChapterSevenExercises.Exercise8();
+//ChapterSevenExercises.Exercise9();
+//ChapterSevenExercises.Exercise10();
+//ChapterSevenExercises.Exercise11();
+//ChapterSevenExercises.Exercise12();
+//ChapterSevenExercises.Exercise13();
+//ChapterSevenExercises.Exercise14();
+//ChapterSevenExercises.Exercise15();
+//ChapterSevenExercises.Exercise16();
+//ChapterSevenExercises.Exercise17();
+//ChapterSevenExercises.Exercise18();
+//ChapterSevenExercises.Exercise19();
+//ChapterSevenExercises.Exercise20();
+//ChapterSevenExercises.Exercise21();
