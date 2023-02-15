@@ -52,13 +52,13 @@ namespace ProgrammingFundamentalsPractice.Chapter_8
         public static void Exercise2()
         {
 
-            ConvertToDecimal(sum);
+            ConvertToDecimal(1010);
 
              
 
 
         }
-
+        
         static int ConvertToDecimal(int n)
         {
             Console.Write("Enter n");
