@@ -5,6 +5,7 @@ using ProgrammingFundamentalsPractice.Chapter_4;
 using ProgrammingFundamentalsPractice.Chapter_5;
 using ProgrammingFundamentalsPractice.Chapter_6;
 using ProgrammingFundamentalsPractice.Chapter_7;
+using ProgrammingFundamentalsPractice.Chapter_8;
 
 //Calling each method in the chapter one class
 //ChapterOneExercises.Start();
@@ -98,7 +99,7 @@ using ProgrammingFundamentalsPractice.Chapter_7;
 //Methods in chapter seven
 //ChapterSevenExercises.Exercise1();
 //ChapterSevenExercises.Exercise2();
-ChapterSevenExercises.Exercise3();
+//ChapterSevenExercises.Exercise3();
 //ChapterSevenExercises.Exercise4();
 //ChapterSevenExercises.Exercise5();
 //ChapterSevenExercises.Exercise6();
@@ -117,3 +118,15 @@ ChapterSevenExercises.Exercise3();
 //ChapterSevenExercises.Exercise19();
 //ChapterSevenExercises.Exercise20();
 //ChapterSevenExercises.Exercise21();
+
+//Methods in chapter eight
+ChapterEightExercises.Exercise1();
+//ChapterSevenExercises.Exercise2();
+//ChapterSevenExercises.Exercise3();
+//ChapterSevenExercises.Exercise4();
+//ChapterSevenExercises.Exercise5();
+
+
+
+
+
