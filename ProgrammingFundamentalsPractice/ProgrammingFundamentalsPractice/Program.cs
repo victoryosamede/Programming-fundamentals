@@ -1,5 +1,7 @@
-﻿using ProgrammingFundamentalsPractice.Chapter_1;
+﻿using AnotherNameSpace;
+using ProgrammingFundamentalsPractice.Chapter_1;
 using ProgrammingFundamentalsPractice.Chapter_10;
+using ProgrammingFundamentalsPractice.Chapter_11;
 using ProgrammingFundamentalsPractice.Chapter_2;
 using ProgrammingFundamentalsPractice.Chapter_3;
 using ProgrammingFundamentalsPractice.Chapter_4;
@@ -135,6 +137,13 @@ using System.Reflection;
 
 //Methods in chapter ten
 //ChapterTenExercises.Main();
-ChapterTenExercises.Exercise1();
+//ChapterTenExercises.Exercise1();
 
-
+//Methods in chapter eleven
+//ChapterElevenExercises.Exercise1();
+//ChapterElevenExercises.Exercise2();
+//ChapterElevenExercises.Exercise3();
+//ChapterElevenExercises.Exercise4();
+//ChapterElevenExercises.Exercise5();
+//AnotherClass.UseClass();
+ChapterElevenExercises.Exercise9();
