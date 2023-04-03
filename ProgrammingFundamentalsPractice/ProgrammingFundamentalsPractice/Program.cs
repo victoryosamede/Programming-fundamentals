@@ -4,6 +4,7 @@ using ProgrammingFundamentalsPractice.Chapter_10;
 using ProgrammingFundamentalsPractice.Chapter_11;
 using ProgrammingFundamentalsPractice.Chapter_12;
 using ProgrammingFundamentalsPractice.Chapter_13;
+using ProgrammingFundamentalsPractice.Chapter_14;
 using ProgrammingFundamentalsPractice.Chapter_2;
 using ProgrammingFundamentalsPractice.Chapter_3;
 using ProgrammingFundamentalsPractice.Chapter_4;
@@ -160,4 +161,14 @@ using System.Reflection;
 //ChapterThirteenExercises.Exercise3();
 //ChapterThirteenExercises.Exercise4();
 //ChapterThirteenExercises.Exercise5();
-ChapterThirteenExercises.Exercise6();
+//ChapterThirteenExercises.Exercise6();
+
+//StudentTest.Main();
+StudentTest.CreateStudent("Victory", "CSC", "uvictory0@rocketmail.com", 089299291001);
+StudentTest.CreateStudent("Sonia", "Eng", "sonia@gmail.com", 039848390920);
+StudentTest.CreateStudent("Sonia", "Eng", "sonia@gmail.com", 039848390920);
+StudentTest.CreateStudent("Sonia", "Eng", "sonia@gmail.com", 039848390920);
+StudentTest.CreateStudent("Sonia", "Eng", "sonia@gmail.com", 039848390920);
+ 
+for
+
