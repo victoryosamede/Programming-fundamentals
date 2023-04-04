@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Linq;
+using System.Reflection;
+using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -22,7 +24,7 @@ namespace ProgrammingFundamentalsPractice.Chapter_14
             student3.DisplayInfo();
         }
         public static Student[] CreatedStudents { get { return createdStudents; } }
-        
+
         public static void CreateStudent(string name, string course, string email, ulong phoneNumber)
         {
 
@@ -30,7 +32,7 @@ namespace ProgrammingFundamentalsPractice.Chapter_14
             for (int i = 0; i < createdStudents.Length; i++)
             {
                 Array.Copy(students, createdStudents, students.Length);
-                
+
                 if (createdStudents.Length > 1)
                 {
                     i = createdStudents.Length - 1;
@@ -45,9 +47,19 @@ namespace ProgrammingFundamentalsPractice.Chapter_14
             Array.Copy(createdStudents, students, createdStudents.Length);
             var t = createdStudents.Length + 1;
             createdStudents = new Student[t];
-
-
+            
         }
-        
+        public struct Test
+        {
+            public int testScores = 3;
+            public int testScores2 = 4;
+
+            public Test(int length)
+            {
+
+            }
+        }
+        Test a = new Test(2);
+        List<T>
     }
 }

@@ -8,5 +8,6 @@ namespace ProgrammingFundamentalsPractice.Chapter_14
 {
     public class ChapterFourteenExercises
     {
+         
     }
 }

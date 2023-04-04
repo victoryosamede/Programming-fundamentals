@@ -5,6 +5,7 @@ using ProgrammingFundamentalsPractice.Chapter_11;
 using ProgrammingFundamentalsPractice.Chapter_12;
 using ProgrammingFundamentalsPractice.Chapter_13;
 using ProgrammingFundamentalsPractice.Chapter_14;
+using ProgrammingFundamentalsPractice.Chapter_15;
 using ProgrammingFundamentalsPractice.Chapter_2;
 using ProgrammingFundamentalsPractice.Chapter_3;
 using ProgrammingFundamentalsPractice.Chapter_4;
@@ -164,11 +165,15 @@ using System.Reflection;
 //ChapterThirteenExercises.Exercise6();
 
 //StudentTest.Main();
-StudentTest.CreateStudent("Victory", "CSC", "uvictory0@rocketmail.com", 089299291001);
-StudentTest.CreateStudent("Sonia", "Eng", "sonia@gmail.com", 039848390920);
-StudentTest.CreateStudent("Sonia", "Eng", "sonia@gmail.com", 039848390920);
-StudentTest.CreateStudent("Sonia", "Eng", "sonia@gmail.com", 039848390920);
-StudentTest.CreateStudent("Sonia", "Eng", "sonia@gmail.com", 039848390920);
- 
-for
+//StudentTest.CreateStudent("Victory", "CSC", "uvictory0@rocketmail.com", 089299291001);
+//StudentTest.CreateStudent("Sonia", "Eng", "sonia@gmail.com", 039848390920);
+//StudentTest.CreateStudent("Sonia", "Eng", "sonia@gmail.com", 039848390920);
+//StudentTest.CreateStudent("Sonia", "Eng", "sonia@gmail.com", 039848390920);
+//StudentTest.CreateStudent("Sonia", "Eng", "sonia@gmail.com", 039848390920);
+
+//Methods in Chapter fifteen
+//ChapterFifteenExercises.Exercise1();
+//ChapterFifteenExercises.Exercise2();
+ChapterFifteenExercises.Exercise3();
+t
 
