@@ -49,17 +49,7 @@ namespace ProgrammingFundamentalsPractice.Chapter_14
             createdStudents = new Student[t];
             
         }
-        public struct Test
-        {
-            public int testScores = 3;
-            public int testScores2 = 4;
-
-            public Test(int length)
-            {
-
-            }
-        }
-        Test a = new Test(2);
-        List<T>
+         
+         
     }
 }
