@@ -1,4 +1,4 @@
-﻿ using System;
+﻿    using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -192,7 +192,7 @@ namespace ProgrammingFundamentalsPractice.Chapter_3
             Console.WriteLine("Enter second bit");
             int secondDigit = int.Parse(Console.ReadLine());
             int firstBit = (num >> firstDigit) & 1;
-            int secondBit = (num >> secondDigit) & 1;
+            int secondBit = (num >> secondDigit) & 1;   
             num = num & (~(1 << secondDigit)) | (firstBit << secondDigit);
             num = num & (~(1 << firstDigit)) | (secondBit << firstDigit);
             Console.WriteLine(num);
@@ -201,5 +201,12 @@ namespace ProgrammingFundamentalsPractice.Chapter_3
 
 
         }
+        //public static void Exercise16()
+        //{
+        //    int exponent = -1;
+        //    string myString = string.Format($"x^{exponent}");
+        //    Console.WriteLine(myString);
+        //    8c1fce0b8d8d0777f33be68a38b0e393;
+        //}
     }
 }

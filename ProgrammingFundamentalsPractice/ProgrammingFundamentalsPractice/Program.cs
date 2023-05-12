@@ -7,6 +7,7 @@ using ProgrammingFundamentalsPractice.Chapter_13;
 using ProgrammingFundamentalsPractice.Chapter_14;
 using ProgrammingFundamentalsPractice.Chapter_15;
 using ProgrammingFundamentalsPractice.Chapter_16;
+using ProgrammingFundamentalsPractice.Chapter_17;
 using ProgrammingFundamentalsPractice.Chapter_2;
 using ProgrammingFundamentalsPractice.Chapter_3;
 using ProgrammingFundamentalsPractice.Chapter_4;
@@ -15,6 +16,7 @@ using ProgrammingFundamentalsPractice.Chapter_6;
 using ProgrammingFundamentalsPractice.Chapter_7;
 using ProgrammingFundamentalsPractice.Chapter_8;
 using ProgrammingFundamentalsPractice.Chapter_9;
+ 
 using System.Reflection;
 
 //Calling each method in the chapter one class
@@ -57,7 +59,8 @@ using System.Reflection;
 //ChapterThreeExercises.Exercise12();
 //ChapterThreeExercises.Exercise13();
 //ChapterThreeExercises.Exercise14();
-//ChapterThreeExercises.Exercise15();
+ChapterThreeExercises.Exercise15();
+//ChapterThreeExercises.Exercise16();
 
 //Methods in chapter four
 //ChapterFourExercises.Exercise1();
@@ -178,7 +181,10 @@ using System.Reflection;
 //ChapterFifteenExercises.Exercise3();
 
 //Methods in Chapter sixteen
-ChapterSixteenExercises.Exercise1();
+//ChapterSixteenExercises.Exercise1();
 //ChapterSixteenExercises.Exercise2();
+//ChapterSixteenExercises.Exercise3();
 
-
+//Methods in chapter seventeen
+//ChapterSeventeenExercises.Exercise1();
+//ChapterSeventeenExercises.Exercise2();

@@ -72,7 +72,7 @@ namespace ProgrammingFundamentalsPractice.Chapter_16
                 
 
             }
-            list.Sort();
+         list.Sort();
         }
     }
 }
