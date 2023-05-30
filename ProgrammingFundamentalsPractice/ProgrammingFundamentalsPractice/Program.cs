@@ -9,6 +9,7 @@ using ProgrammingFundamentalsPractice.Chapter_15;
 using ProgrammingFundamentalsPractice.Chapter_16;
 using ProgrammingFundamentalsPractice.Chapter_17;
 using ProgrammingFundamentalsPractice.Chapter_18;
+using ProgrammingFundamentalsPractice.Chapter_19;
 using ProgrammingFundamentalsPractice.Chapter_2;
 using ProgrammingFundamentalsPractice.Chapter_3;
 using ProgrammingFundamentalsPractice.Chapter_4;
@@ -192,5 +193,9 @@ using System.Reflection;
 
 //Methods in chapter eighteen
 //ChapterEighteenExercises.Exercise1();
-ChapterEighteenExercises.Exercise2();
+//ChapterEighteenExercises.Exercise2();
 
+//Methods in chapter nineteen
+//ChapterNineteenExercises.SubSetOfASet();
+//ChapterNineteenExercises.Exercise1();
+ChapterNineteenExercises.Exercise2();
